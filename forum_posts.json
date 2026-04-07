@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "author": "Salagrama Surya Pavan",
+        "location": "Kakinada",
+        "category": "Crop Protection",
+        "text": "1. Biochar-Enriched Soil\nInstead of just compost, try adding biochar (charcoal made from plant waste) to your soil.\nIt improves soil fertility, retains water, and even reduces pests naturally.\nMost farmers focus on chemical fertilizers, so this is relatively rare.\n2. Agroforestry with Medicinal Plants\nPlant fast-growing trees with undergrowth of herbs like Tulsi, Ashwagandha, or Aloe Vera.\nProvides extra income and helps with soil health.\nFew farmers combine timber + herbs + crops in one field.",
+        "likes": 2,
+        "date": "04 Apr, 2026"
+    },
+    {
+        "id": 2,
+        "author": "karthik",
+        "location": "rjy",
+        "category": "Organic Farming",
+        "text": "good",
+        "likes": 2,
+        "date": "04 Apr, 2026"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "product": "pineapple",
+        "buyer": "Pavan",
+        "address": "Vijayawada",
+        "payment": "Online"
+    },
+    {
+        "product": "mango",
+        "buyer": "Omkar",
+        "address": "Kakinada",
+        "payment": "COD"
+    },
+    {
+        "product": "pineapple",
+        "buyer": "Geetha",
+        "address": "Vizag",
+        "quantity": 10,
+        "total_price": 600,
+        "payment": "COD"
+    }
+]
